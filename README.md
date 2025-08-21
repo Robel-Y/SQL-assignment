@@ -35,7 +35,7 @@ This project implements a relational database for a **Library Management System*
 
 This diagram shows the structure and relationships between the tables:
 
-![Entity Relationship Diagram](ERD.png)
+[(https://github.com/Robel-Y/SQL-assignment/blob/main/library%20mnagement%20ERD.png)]
 
 ✅ Make sure the image file is saved in the same directory as this README file.
 
